@@ -4,9 +4,12 @@ using UnityEngine;
 
 public class PickUp : MonoBehaviour
 {
-    public Camera MainCamera
+    public Camera MainCamera;
 
 
 
-    public void PickUp();
+    public void PiddckUp() 
+    {
+
+    }
 }
